@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Samuel.
 - 👀 I’m interested in Data Analysis.
 - 🌱 I’m currently learning Google Data Analytics from Coursera 
-- 💞️ I’m looking to collaborate on unpaid programming (python) projects. 
+- 💞️ I’m looking to volunteer for programming (python) projects.
 - 📫 You can reach me through my email adzoy08@yahoo.com.
 
 <!---
