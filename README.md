@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Samuel.
 - 👀 I’m interested in Data Analysis.
 - 🌱 I have a Google Data Analytics Professional Certificate. 
-- 🌱 I'm currently pursuing a nanodegree in Data Analyst from Udacity
+- 🌱 I also have a nanodegree in Data Analyst from Udacity
 - 💞️ I’m looking to volunteer for programming (python) projects.
 - 📫 You can reach me through my email adzoy08@yahoo.com.
 
