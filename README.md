@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Samuel.
-- 👀 I’m interested in Data Analysis.
+- 👀 I’m a Data Analyst.
 - 🌱 I have a Google Data Analytics Professional Certificate. 
 - 🌱 I also have a nanodegree in Data Analyst from Udacity
 - 💞️ I’m looking to volunteer for programming (python) projects.
