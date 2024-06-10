@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Samuel.
-- 👀 I’m a Data Analyst.
+- 👀 I am a Data Analyst with 7 years of experience.
 - 🌱 I have a Google Data Analytics Professional Certificate. 
 - 🌱 I also have a nanodegree in Data Analyst from Udacity
 - 💞️ I’m looking to volunteer for programming (python) projects.
